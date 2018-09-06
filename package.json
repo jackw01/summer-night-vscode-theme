@@ -1,0 +1,40 @@
+{
+    "name": "summer-night-theme",
+    "displayName": "Summer Night Theme",
+    "description": "Clean and vibrant dark theme for VS Code",
+    "version": "1.0.0",
+    "publisher": "jackw01",
+    "bugs": {
+        "url": "https://github.com/jackw01/summer-night-vscode-theme/issues"
+    },
+    "homepage": "https://github.com/jackw01/summer-night-vscode-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jackw01/summer-night-vscode-theme"
+    },
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Summer Night Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/summer-night-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "summer night",
+        "summer-night",
+        "summernight",
+        "summer",
+        "vibrant",
+        "colorful",
+        "dark",
+        "theme"
+    ]
+}
