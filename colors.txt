@@ -1,0 +1,16 @@
+mono-1: #e2e8f5
+mono-2: #c4c9d6
+mono-3: #a6abb8
+mono-4: #898e9a
+mono-5: #6d727e
+mono-6: #525762
+mono-7: #393e48
+mono-8: #21262f
+hue-3: #fa5f8b
+hue-5: #f06c6f
+hue-7: #e17954
+hue-6: #d08447
+hue-4: #d3ab58
+hue-8: #00ab9a
+hue-2: #00a9b9
+hue-1: #00a3d2
