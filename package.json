@@ -13,7 +13,7 @@
         "url": "https://github.com/jackw01/summer-night-vscode-theme"
     },
     "engines": {
-        "vscode": "^1.12.0"
+        "vscode": "^1.21.0"
     },
     "categories": [
         "Themes"
