@@ -206,7 +206,8 @@
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control"
+				"keyword.control",
+				"keyword.other.import"
 			],
 			"settings": {
 				"foreground": "#fa5f8b"
@@ -293,7 +294,11 @@
 		{
 			"name": "Other Variable, String Link",
 			"scope": [
-				"support.variable.property"
+				"support.variable.property",
+				"variable.other.member",
+				"entity.other.attribute-name",
+				"variable.other.property",
+				"variable.other.object.property"
 			],
 			"settings": {
 				"foreground": "#d08447"
@@ -342,6 +347,7 @@
 				"constant.other.symbol",
 				"constant.other.key",
 				"entity.other.inherited-class",
+				"storage.modifier.import",
 				"markup.heading",
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
@@ -434,7 +440,8 @@
 		{
 			"name": "Attributes",
 			"scope": [
-				"entity.other.attribute-name"
+				"entity.other.attribute-name",
+				"keyword.other.documentation.javadoc.java"
 			],
 			"settings": {
 				"foreground": "#e17954"
