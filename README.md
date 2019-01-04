@@ -1,2 +1,3 @@
-# summer-night-vscode-theme
-Summer Night theme for VS Code
+## Summer Night VS Code theme
+
+VS Code port of my [Summer Night Theme](https://github.com/jackw01/summer-night-syntax)
