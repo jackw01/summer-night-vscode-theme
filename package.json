@@ -21,9 +21,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Summer Night Theme",
+                "label": "Summer Night",
                 "uiTheme": "vs-dark",
                 "path": "./themes/summer-night-color-theme.json"
+            },
+            {
+                "label": "Summer Night High Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/summer-night-hc-color-theme.json"
             }
         ]
     },
