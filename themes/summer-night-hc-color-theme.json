@@ -230,7 +230,10 @@
       "name": "Operator, Misc",
       "scope": [
         "keyword.control",
-        "keyword.other.import"
+        "keyword.other.import",
+        "keyword.operator.new",
+        "keyword.operator.expression",
+        "punctuation.definition.keyword.scss"
       ],
       "settings": {
         "foreground": "#fa5f8b"
@@ -331,10 +334,11 @@
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
       "scope": [
         "constant.numeric",
-        "constant.language",
         "support.constant",
         "constant.character",
-        "constant.escape"
+        "constant.escape",
+        "keyword.other.unit",
+        "punctuation.definition.keyword.scss"
       ],
       "settings": {
         "foreground": "#e17954"
@@ -343,7 +347,9 @@
     {
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
       "scope": [
-        "variable.other.constant"
+        "variable.other.constant",
+        "variable.other.constant entity.name.function.js",
+        "constant.language.boolean"
       ],
       "settings": {
         "foreground": "#f06c6f"
@@ -353,7 +359,6 @@
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
       "scope": [
         "variable.parameter",
-        "keyword.other.unit",
         "keyword.other"
       ],
       "settings": {
@@ -365,8 +370,7 @@
       "scope": [
         "string",
         "string.template",
-        "punctuation.definition.string.begin",
-        "punctuation.definition.string.end",
+        "punctuation.definition.string",
         "constant.other.symbol",
         "constant.other.key",
         "entity.other.inherited-class",
@@ -423,10 +427,11 @@
         "source.scss support.type.property-name",
         "source.less support.type.property-name",
         "source.stylus support.type.property-name",
-        "source.postcss support.type.property-name"
+        "source.postcss support.type.property-name",
+        "support.type.vendored.property-name.css"
       ],
       "settings": {
-        "foreground": "#8f95a1"
+        "foreground": "#a8adba"
       }
     },
     {
@@ -473,12 +478,10 @@
     {
       "name": "HTML Attributes",
       "scope": [
-        "text.html.basic entity.other.attribute-name.html",
-        "text.html.basic entity.other.attribute-name"
+        "entity.other.attribute-name.html"
       ],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#e17954"
+        "foreground": "#d08447"
       }
     },
     {
@@ -549,9 +552,11 @@
       "scope": [
         "*url*",
         "*link*",
-        "*uri*"
+        "*uri*",
+        "meta.tag.metadata.link.void.html"
       ],
       "settings": {
+        "foreground": "#00a9b9",
         "fontStyle": "underline"
       }
     },
@@ -641,7 +646,8 @@
       "scope": [
         "markdown.heading",
         "markup.heading | markup.heading entity.name",
-        "markup.heading.markdown punctuation.definition.heading.markdown"
+        "markup.heading.markdown punctuation.definition.heading.markdown",
+        "entity.name.section.markdown"
       ],
       "settings": {
         "foreground": "#f06c6f"

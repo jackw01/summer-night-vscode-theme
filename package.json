@@ -1,45 +1,50 @@
 {
-    "name": "summer-night-theme",
-    "displayName": "Summer Night Theme",
-    "description": "Clean and vibrant dark theme for VS Code",
-    "version": "1.0.2",
-    "publisher": "jackw01",
-    "bugs": {
-        "url": "https://github.com/jackw01/summer-night-vscode-theme/issues"
-    },
-    "homepage": "https://github.com/jackw01/summer-night-vscode-theme",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/jackw01/summer-night-vscode-theme"
-    },
-    "engines": {
-        "vscode": "^1.21.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Summer Night",
-                "uiTheme": "vs-dark",
-                "path": "./themes/summer-night-color-theme.json"
-            },
-            {
-                "label": "Summer Night High Contrast",
-                "uiTheme": "vs-dark",
-                "path": "./themes/summer-night-hc-color-theme.json"
-            }
-        ]
-    },
-    "keywords": [
-        "summer night",
-        "summer-night",
-        "summernight",
-        "summer",
-        "vibrant",
-        "colorful",
-        "dark",
-        "theme"
-    ]
+	"name": "summer-night-theme",
+	"displayName": "Summer Night Theme",
+	"description": "Clean and vibrant dark theme for VS Code",
+	"version": "1.1.0",
+	"publisher": "jackw01",
+	"bugs": {
+		"url": "https://github.com/jackw01/summer-night-vscode-theme/issues"
+	},
+	"homepage": "https://github.com/jackw01/summer-night-vscode-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jackw01/summer-night-vscode-theme"
+	},
+	"engines": {
+		"vscode": "^1.21.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Summer Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/summer-night-color-theme.json"
+			},
+			{
+				"label": "Summer Night High Contrast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/summer-night-hc-color-theme.json"
+			}
+		]
+	},
+	"keywords": [
+		"summer night",
+		"summer-night",
+		"summernight",
+		"summer",
+		"vibrant",
+		"colorful",
+		"dark",
+		"theme"
+	],
+	"__metadata": {
+		"id": "4bf1b933-7aea-47d4-98d4-78ffef83babe",
+		"publisherDisplayName": "jackw01",
+		"publisherId": "850ab812-2123-4961-9058-23339e27b983"
+	}
 }
