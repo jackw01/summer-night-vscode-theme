@@ -2,8 +2,9 @@
 	"name": "summer-night-theme",
 	"displayName": "Summer Night Theme",
 	"description": "Clean and vibrant dark theme for VS Code",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"publisher": "jackw01",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/jackw01/summer-night-vscode-theme/issues"
 	},
@@ -29,6 +30,16 @@
 				"label": "Summer Night High Contrast",
 				"uiTheme": "vs-dark",
 				"path": "./themes/summer-night-hc-color-theme.json"
+			},
+			{
+				"label": "Summer Night Gray",
+				"uiTheme": "vs-dark",
+				"path": "./themes/summer-night-2-color-theme.json"
+			},
+			{
+				"label": "Summer Night Gray High Contrast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/summer-night-hc2-color-theme.json"
 			}
 		]
 	},
@@ -44,7 +55,7 @@
 	],
 	"__metadata": {
 		"id": "4bf1b933-7aea-47d4-98d4-78ffef83babe",
-		"publisherDisplayName": "jackw01",
-		"publisherId": "850ab812-2123-4961-9058-23339e27b983"
+		"publisherId": "850ab812-2123-4961-9058-23339e27b983",
+		"publisherDisplayName": "jackw01"
 	}
 }
