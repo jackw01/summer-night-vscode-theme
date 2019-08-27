@@ -4,13 +4,22 @@ A dark syntax theme with vibrant colors picked using the [HCL color space](http:
 
 [This theme is also available for Atom](https://atom.io/themes/summer-night-syntax)
 
-![](https://github.com/jackw01/summer-night-vscode-theme/raw/master/code-1-blue.png)
+![](https://github.com/jackw01/summer-night-vscode-theme/raw/master/images/00-2.png)
 
-![](https://github.com/jackw01/summer-night-vscode-theme/raw/master/colors.png)
+![](https://github.com/jackw01/summer-night-vscode-theme/raw/master/images/colors.png)
 
 The font used in the screenshot is [Input Mono Narrow](http://input.fontbureau.com/). Summer Night is tested to work well with Javascript/Typescript, Python, Java, C/C++, Ruby, HTML, and CSS/SCSS.
 
-Three versions of the theme are included - default blue (shown above), high contrast blue, and high contrast gray.
+Four versions of the theme are included - default blue (shown above), high contrast blue, gray, and high contrast gray.
+
+#### High Contrast Blue
+![](https://github.com/jackw01/summer-night-vscode-theme/raw/master/images/01-2.png)
+
+#### Gray
+![](https://github.com/jackw01/summer-night-vscode-theme/raw/master/images/02-2.png)
+
+#### High Contrast Gray
+![](https://github.com/jackw01/summer-night-vscode-theme/raw/master/images/03-2.png)
 
 ### Features
 
