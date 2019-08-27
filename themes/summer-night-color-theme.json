@@ -54,8 +54,8 @@
     "list.activeSelectionBackground": "#00a9b930",
     "list.focusBackground": "#00a9b930",
     "list.hoverBackground": "#00a9b90e",
-    "list.inactiveSelectionBackground": "#21262f",
-    "list.inactiveFocusBackground": "#21262f",
+    "list.inactiveSelectionBackground": "#00a9b90a",
+    "list.inactiveFocusBackground": "#00a9b90a",
     "notifications.background": "#21262f",
     "notificationCenterHeader.background": "#21262f",
     "statusBarItem.hoverBackground": "#00a9b90e",
@@ -752,6 +752,25 @@
       ],
       "settings": {
         "foreground": "#d3ab58"
+      }
+    },
+    {
+      "name": "Language Variable",
+      "scope": [
+        "variable.language"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Language Variable",
+      "scope": [
+        "variable.language.special.self.python"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#d08447"
       }
     }
   ]
