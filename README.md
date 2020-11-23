@@ -2,11 +2,11 @@
 
 A dark syntax theme with vibrant colors picked using the [HCL color space](http://howlettstudios.com/articles/2017/5/6/the-problem-with-hsv).
 
-![](https://github.com/jackw01/summer-night-vscode-theme/raw/master/images/screen.png)
+![](https://github.com/jackw01/summer-night-vscode-theme/raw/master/images/screen.jpg)
 
 ![](https://github.com/jackw01/summer-night-vscode-theme/raw/master/images/colors.png)
 
-The font used in the screenshots is [Input Mono Narrow](http://input.fontbureau.com/). Summer Night is tested to work well with Javascript/Typescript, Python, Java, C/C++, Ruby, HTML, and CSS/SCSS.
+The fonts used in the screenshots is [JetBrains Mono](https://www.jetbrains.com/lp/mono/) and [Input Mono Narrow](http://input.fontbureau.com/). Summer Night is tested to work well with Javascript/Typescript, Python, Java, C/C++, Ruby, HTML, and CSS/SCSS.
 
 [This theme is also available for Atom.](https://atom.io/themes/summer-night-syntax)
 
